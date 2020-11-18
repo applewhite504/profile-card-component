@@ -1,0 +1,56 @@
+/* body {
+    padding: 0;
+    margin: 0;
+    background-image: url("bg-pattern-bottom.svg ");
+    background-color: hsl(185, 75%, 39%);
+    font-family: arial;
+    box-sizing: border-box;
+}
+
+.card {
+    /* Add shadows to create the "card" effect */
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background: white;
+    header: hsl(185, 75%, 45%);
+    border-radius: 5px; /* 5px rounded corners */
+    /* width: 50%;
+    height: 530px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}  */
+
+/* span {
+    color: grey;
+} */
+
+/* .container {
+    padding: 2px 16px;
+
+} */
+
+
+
+/* .card img {
+    position: relative;
+    top: 35%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+} */
+
+
+
+/* On mouse-over, add a deeper shadow */
+/* .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+} */
+
+/* Add some padding inside the card container */
+/* .container {
+    padding: 2px 16px;
+    
+} */
+ 
